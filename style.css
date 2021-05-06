@@ -1,0 +1,26 @@
+
+ body{
+	background-color: white; 
+}
+.ssilkaone{
+	font-size: 16px;
+	color: green;
+}
+.ssilkatwo{
+	margin-left: 20px;
+	font-size: 16px;
+	color: green;
+}
+.htwo{
+	font-size: 30px;
+	margin-left: 690px;
+}
+.image{
+	margin-left: 890px;
+}
+.item{
+	margin: 30px;
+}
+.container{
+	display: flex;
+}
